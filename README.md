@@ -12,6 +12,7 @@
 | **Project Domain** | Energy and Utilities |
 | **Database** | Oracle Database |
 | **Repository** | `davy_20251SEN076_SolarPay` |
+| **BPM Diagram** | [Open BPM diagram](https://lucid.app/lucidchart/1c854021-168c-43cb-883a-3371c6ae4a82/edit?viewport_loc=-1605%2C-5880%2C4594%2C1981%2Cm-5o7ONTd-nK&invitationId=inv_05016a22-ce8d-46fa-b328-08b803b0858b) |
 
 ## 1. Project Overview
 
